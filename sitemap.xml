@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://mytran1504.github.io/</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mytran1504.github.io/index.html</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mytran1504.github.io/about_us.html</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mytran1504.github.io/destinations.html</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mytran1504.github.io/tour_information.html</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mytran1504.github.io/promotion.html</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mytran1504.github.io/contact.html</loc>
+  <lastmod>2021-08-27T21:19:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
